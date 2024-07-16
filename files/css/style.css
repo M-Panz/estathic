@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Clash-Grotesk';
+    src:url('/files/font/ClashGrotesk-Extralight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clash-Grotesk';
+    src:url('/files/font/ClashGrotesk-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clash-Grotesk';
+    src:url('/files/font/ClashGrotesk-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clash-Grotesk';
+    src:url('/files/font/ClashGrotesk-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clash-Grotesk';
+    src:url('/files/font/ClashGrotesk-Semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clash-Grotesk';
+    src:url('/files/font/ClashGrotesk-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-Extralight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-ExtralightItalic.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-Italic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-MediumItalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-Semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-SemiboldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GeneralSans';
+    src: url('../font/GeneralSans-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+}
